@@ -1,7 +1,7 @@
 # Primal-Dual Active Set Algorithm for Quadratic Optimization Problems
 
 This repository includes an implementation of the Primal-Dual Active Set Algorithm (PDASA) for solving quadratic optimization problems, specifically focusing on scenarios with both lower and upper constraints. The theory behind the algorithm is based on the work of Ito and Kunisch (2008).
-This implementation is the basis of the numerical examples in my master thesis 'Global Convergence Theory for nonsmooth Newton Methods applied to Quadratic Programs'.
+This implementation is the basis of the numerical examples in my master thesis 'Global Convergence Theory for nonsmooth Newton Methods applied to Quadratic Programs' and to the related publication in GAMMAS https://doi.org/10.14464/gammas.v7i1.810.
 
 It contains Python scripts for running various experiments related to constrained quadratic programming (QP). The provided code allows for testing different data configurations, analyzing convergence behavior, and evaluating active set cycles.
 
